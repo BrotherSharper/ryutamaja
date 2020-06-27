@@ -3,7 +3,7 @@
 	"title": "日本語化（Ryutama）",
 	"description": "オンセ工房用のりゅうたまシステムの翻訳ファイルを組み込むモッド。",
 	"version": "0.1",
-	"author": "Brother Sharp, trpg_yoshi",
+	"author": "Brother Sharp",
 	"languages": [
 		{
 			"lang": "ja",

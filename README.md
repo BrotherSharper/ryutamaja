@@ -1,7 +1,7 @@
 # りゅうたま用 日本語化モッド
 
 * **製作者**: Brother Sharp (ディスコード：Brother Sharp#6921)
-* **翻訳ファイル提供者**: trpg_yoshi (ツイッター：[よっしー](https://twitter.com/trpg_yoshi))
+* **翻訳ファイル提供者**: 
 * **対応pf1eバージョン**: 0.6.0+
 * **modバージョン**: 0.1.0
 
