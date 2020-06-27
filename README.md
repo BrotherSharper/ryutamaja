@@ -9,7 +9,7 @@
 
 以下のリンクをモッドとしてインストールしてください。
 
-* リンク： https://raw.githubusercontent.com/BrotherSharper/pf1eja/master/module.json
+* リンク： https://raw.githubusercontent.com/BrotherSharper/ryutamaja/master/module.json
 
 ### 内容
 りゅうたまシステム用の翻訳ファイルを追加し、日本語化するモッドです。
